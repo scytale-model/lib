@@ -80,6 +80,10 @@ function add(a, b) {
 }
 
 
+// let's see if sonarcloud would consider this a problem
+const gooogle_api_2_key = 'AIzaSyD9_a8z-tM4XjWhmWzH5bQXxXy5zqDmlKc';
+
+
 const x = 5;;
 
 
